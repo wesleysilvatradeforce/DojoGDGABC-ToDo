@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GdgAbc-ToDo</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="status_titulo">
+        <item>Cancelar</item>
+        <item>Fazendo</item>
+        <item>Feito</item>
+        <item>Pendente</item>
+    </string-array>
+</resources>
